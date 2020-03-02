@@ -20,5 +20,17 @@ export default {
 </script>
 
 <style>
+.lend-wrapper {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.conteiner {
+    display: grid;
+    width: 1fr;
+    max-width: 1200px;
+    min-width: 320;
+    padding: 15px;
+    justify-self: stretch;
+}
 
 </style>

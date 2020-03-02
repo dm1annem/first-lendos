@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-  <p>Hello world!</p>
   <lend-wrapper/>
   </div>
 </template>
@@ -17,4 +16,7 @@ export default {
 </script>
 
 <style>
+  body {
+    margin: 0;
+  }
 </style>
