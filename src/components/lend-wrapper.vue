@@ -2,7 +2,9 @@
     <div class="lend-wrapper">
         <lend-nav/>
         <lend-initial-screen/>
+
     </div>
+    
 </template>
 
 <script>
@@ -21,6 +23,7 @@ export default {
 
 <style>
 .lend-wrapper {
+    display: grid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
